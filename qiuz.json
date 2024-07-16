@@ -1,0 +1,27 @@
+[
+    {
+        "question": "What is the capital of France?",
+        "options": ["Paris", "London", "Berlin", "Rome"],
+        "answer": "Paris"
+    },
+    {
+        "question": "What is the largest planet in our solar system?",
+        "options": ["Earth", "Saturn", "Jupiter", "Uranus"],
+        "answer": "Jupiter"
+    },
+    {
+        "question": "What is the smallest country in the world?",
+        "options": ["Vatican City", "Monaco", "Nauru", "Tuvalu"],
+        "answer": "Vatican City"
+    },
+    {
+        "question": "What is the largest living species of lizard?",
+        "options": ["Komodo dragon", "Saltwater crocodile", "Black mamba", "Green anaconda"],
+        "answer": "Komodo dragon"
+    },
+    {
+        "question": "What is the deepest ocean?",
+        "options": ["Pacific Ocean", "Atlantic Ocean", "Indian Ocean", "Arctic Ocean"],
+        "answer": "Pacific Ocean"
+    }
+]
